@@ -1,0 +1,15 @@
+.App {
+  background-image: url("https://www.shutterstock.com/image-illustration/cairo-egypt-9-jan-2024-600nw-2414124889.jpg");
+  background-repeat: no-repeat;
+   background-size: cover;
+  object-fit: cover;
+  font-family: cursive;
+}
+
+
+.player-img {
+  height: 200px; 
+  width: 100%; 
+  object-fit: cover; 
+  border-bottom: 1px solid #ddd; 
+}
